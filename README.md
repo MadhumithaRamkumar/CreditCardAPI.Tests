@@ -2,8 +2,8 @@ This Project contains the unit tests for Credit Card API Project. It validates t
 
 **FrameWorks**
 
-XUnit - Unit testing framework
-.Net 9 Framework - C# .NET Framework
+1.  XUnit - Unit testing framework
+2.  .Net 9 Framework - C# .NET Framework
 
 **SETUP INSTRUCTION**
 
